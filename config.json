@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-quality-cleaning",
+      "title": "Data Cleaning and Quality",
+      "description": "Clean a CSV dataset by identifying missing, duplicate, and invalid values, then compare and save the cleaned results.",
+      "path": "assignments/data-quality-cleaning",
+      "dueDate": "2026-10-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
